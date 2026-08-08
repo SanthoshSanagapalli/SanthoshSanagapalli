@@ -43,14 +43,14 @@ A complete food ordering web application implementing:
 - Admin user flows for menu CRUD and order management
 - Persistent storage with MySQL and server-side logic with Flask
 - Responsive frontend and basic validations
-- (Repo: placeholder — please provide link)
+- (Repo: Food Ordering System — https://github.com/SanthoshSanagapalli/Food-Ordering-System)
 
 ### TODO List App (HTML, CSS, JavaScript) — 2024
 A task-management web app with:
 - Task create/read/update/delete flows and local persistence
 - Clean UI with responsive behavior and prioritization features
 - Designed for learning DOM manipulation, state handling, and UX basics
-- (Repo: placeholder — please provide link)
+- (Repo: Task Manager With Progress Tracker — https://github.com/SanthoshSanagapalli/Task-Manager-with-Progress-Tracker)
 
 ---
 
@@ -68,16 +68,7 @@ A task-management web app with:
 - LinkedIn: [Dhana Santhosh Sanagapalli](https://www.linkedin.com/in/dhana-santhosh-sanagapalli)
 - GitHub: [SanthoshSanagapalli](https://github.com/SanthoshSanagapalli)
 
----
 
-## Notes & Next Steps
-I removed the portfolio badge and the "Portfolio / Blog" line since you don't have a portfolio. If you'd like, I can now:
-- Add direct project repo links and short descriptions,
-- Include GitHub stats/badges,
-- Add a resume PDF link or phone number, or
-- Change tone or layout.
-
-Tell me which of those (or any other changes) you want and I’ll update the README.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SanthoshSanagapalli/SanthoshSanagapalli/output/github-contribution-grid-snake-dark.svg">
