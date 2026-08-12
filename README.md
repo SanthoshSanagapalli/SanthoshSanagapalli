@@ -55,11 +55,11 @@ A task-management web app with:
 ---
 
 ## Certifications
-- Python (Basics) Certificate — 2024
-- Python Programming — 2024
-- Responsive Web Design — 2024
-- Full Stack Website Development — 2024
-- Introduction to Databases — 2024
+- Python (Basics) Certificate 
+- Python Programming
+- Responsive Web Design
+- Full Stack Website Development 
+- Introduction to Databases 
 
 ---
 
