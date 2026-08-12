@@ -37,7 +37,7 @@ I am currently pursuing a B.Tech in Computer Science and Data Science and buildi
 
 ## Projects
 
-### Food Ordering System (Python, Flask, MySQL, HTML, CSS, JavaScript) — 2025
+### Food Ordering System (Python, Flask, MySQL, HTML, CSS, JavaScript) 
 A complete food ordering web application implementing:
 - User authentication, menu management, cart and order placement
 - Admin user flows for menu CRUD and order management
@@ -45,7 +45,7 @@ A complete food ordering web application implementing:
 - Responsive frontend and basic validations
 - (Repo: Food Ordering System — https://github.com/SanthoshSanagapalli/Food-Ordering-System)
 
-### TODO List App (HTML, CSS, JavaScript) — 2024
+### TODO List App (HTML, CSS, JavaScript) 
 A task-management web app with:
 - Task create/read/update/delete flows and local persistence
 - Clean UI with responsive behavior and prioritization features
